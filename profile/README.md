@@ -1,3 +1,3 @@
-## AGN and a place for our open-source projects
+## AGN open-source
 
 A place for projects for our server and practical use.
